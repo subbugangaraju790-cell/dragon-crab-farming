@@ -1,0 +1,6 @@
+{
+  "name": "Dragon Crab Farming",
+  "description": "High-technology sustainable crab aquaculture, vertical RAS crab apartment systems, and global export-grade live mud crabs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
